@@ -47,6 +47,10 @@ function test() {
   console.log('11');
 }
 test();
+function test1() {
+  console.log('11');
+}
+test1();
 </script>
 
 <template>
